@@ -9,3 +9,12 @@
 
 The project involved taking a large dataset from Kaggle and then transforming the data into a usable dataset for a "hack competition". After the data was transformed and constrained for the hackathon, the DataFrames were loaded into PostgresSQL.
 
+
+## Verifying the data in PgAdmin
+
+### Movies query 
+https://github.com/Simro25011/Movies-ETL/blob/main/ressources/movies_query.png
+
+### Ratings query 
+https://github.com/Simro25011/Movies-ETL/blob/main/ressources/ratings_query.png
+
